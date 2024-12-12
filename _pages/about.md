@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 
 Hi! I am Grace, a fourth-year Ph.D. candidate from [Department of Economics](https://economics.columbian.gwu.edu/) at [George Washington University](https://www.gwu.edu/), specializing in **International Macroeconomics, Monetary Policy, and Applied Macroeconomics**. My recent research topics include capital flows, carry trades, and the impact of financial trading in global markets.
 
