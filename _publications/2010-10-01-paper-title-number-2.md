@@ -10,8 +10,8 @@ the Shanghai FTA on Hong Kongâ€™s import-export market, attributed to Hong Kongâ
 and import volume rather than production innovation and R&D capabilities.'
 date: 2017-05-01
 venue: 'China Circulation Economy'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+slidesurl: #
+paperurl: #
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
