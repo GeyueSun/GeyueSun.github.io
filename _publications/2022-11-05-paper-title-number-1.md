@@ -13,7 +13,7 @@ liberalization, starting with Portfolio Investment, followed by Financial Deriva
 date: 2022-11-05
 venue: 'Finance Forum'
 slidesurl: #
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '.../files/发表作品（P10）.pdf'
 citation: '郭桂霞,and 孙歌悦."人民币套息交易与“三元悖论”理论框架——基于TVP-VAR模型的实证研究." 金融论坛 27.11(2022):10-20. doi:10.16529/j.cnki.11-4613/f.2022.11.003.'
 ---
 
