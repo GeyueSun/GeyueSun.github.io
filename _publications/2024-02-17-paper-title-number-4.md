@@ -14,7 +14,7 @@ excerpt: >
 date: 2024-11-21
 venue: "2024 Southern Economics Association (SEA) 94th Annual Meeting"
 slidesurl: ".../files/SEA_GeyueSun.pdf"
-paperurl: "http://academicpages.github.io/files/paper2.pdf"
+paperurl: ".../files/carry_trade_and_commodity_trading.pdf"
 citation: 'G.Sun. (2024). "Bypassing Capital Interventions: Carry Trades via Commodity Futures Market." <i>2024 Southern Economics Association (SEA) 94th Annual Meeting</i>.'
 ---
 
