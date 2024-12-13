@@ -1,9 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Carry Trade and the Theoretical Framework of “Impossible Trinity”
+Theory: An Empirical Analysis Based on TVP-SV-VAR"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper evaluated China’s capital account liberalization and exchange rate marketization by integrating
+carry trade into the Impossible Trinity framework. Built a theoretical model and using
+TVP-SV-VAR analysis to examine the short- and long-term impulse responses between carry trade, capital
+controls, exchange rate stability, and monetary policy independence. Findings revealed that carry trade
+significantly impacts the independence of monetary policy, supporting a phased approach to capital account
+liberalization, starting with Portfolio Investment, followed by Financial Derivatives and FDI accounts.'
 date: 2022-11-05
 venue: 'Finance Forum'
 slidesurl: #
