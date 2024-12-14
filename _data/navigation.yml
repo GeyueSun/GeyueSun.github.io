@@ -9,12 +9,12 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Current Projects"
-    url: /talks/    
+    url: /talks/  
 
+  - title: "Publications and Talks"
+    url: /publications/
+  
   - title: "Teaching"
     url: /teaching/    
     
