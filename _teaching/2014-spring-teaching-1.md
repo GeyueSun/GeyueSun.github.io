@@ -1,10 +1,12 @@
 ---
-title: "Instructor & TA"
+title: "Instructor and TA"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "George Washington University"
-date: 2021-09 till present
+date: 2021-09-01
+start_date: 2021-09-01
+end_date: present
 location: "Washington D.C., US"
 ---
 
