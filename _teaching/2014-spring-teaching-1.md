@@ -1,10 +1,10 @@
 ---
 title: "Instructor"
 collection: teaching
-type: "Undergraduate course"
+type: "ECON1011 Principle of Macroeconomics"
 permalink: /teaching/2014-spring-teaching-1
 venue: "George Washington University"
-date: 2021-09-01
+date: 2022-09-01
 location: "Washington D.C., US"
 ---
 
