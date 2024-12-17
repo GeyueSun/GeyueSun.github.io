@@ -7,7 +7,7 @@
 main:
 
   - title: "CV"
-    URL: /files/CV_GeyueSun_2024.pdf
+    url: /files/CV_GeyueSun_2024.pdf
 
   - title: "Current Projects"
     url: /talks/  
