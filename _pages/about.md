@@ -12,7 +12,7 @@ Hi! I am Grace, a fourth-year Ph.D. candidate from [Department of Economics](htt
 
 I am very fortunate to be advised by [Prof. Tomas Williams](https://tomas-williams.com/) at The George Washington University. Previously, I was mentored by [Prof. Guixia Guo](https://iie.uibe.edu.cn/english/faculty/60682.htm) during my Master's Degree at the [University of International Business and Economics (UIBE)](https://english.uibe.edu.cn/).
 
-You can find my CV here: [Grace Sun's Curriculum Vitae](../assets/Geyue_Sun_CV_20241212.pdf).
+You can find my CV here: [Grace Sun's Curriculum Vitae](../files/CV_GeyueSun_2024.pdf).
 
 
 
