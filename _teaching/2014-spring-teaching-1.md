@@ -10,7 +10,6 @@ end_date: present
 location: "Washington D.C., US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 - **Delivered lectures independently**: Taught four days per week during the summer session, with 90-minute classes each day, effectively managing course content and student engagement.
 
