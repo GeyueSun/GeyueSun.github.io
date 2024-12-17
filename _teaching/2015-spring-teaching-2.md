@@ -1,9 +1,9 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "ECON 8305 Macroeconomics I (PhD Level)"
 permalink: /teaching/2014-spring-teaching-1
-venue: "ECON 8305 Macroeconomics I (PhD Level), George Washington University"
+venue: "George Washington University"
 date: 2023-09-01
 location: "Washington D.C., US"
 ---
