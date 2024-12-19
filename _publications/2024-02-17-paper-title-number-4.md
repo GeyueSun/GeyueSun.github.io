@@ -3,17 +3,13 @@ title: "Bypassing Capital Interventions: Carry Trades via Commodity Futures Mark
 collection: publications
 category: conferences
 permalink: /publication/2024-11-21-carry-trades-commodity-futures
-excerpt: >
-  **Advisor:** Prof. Tomas Williams**
-  
-  - Conducted empirical research on commodity carry trade in developing countries, testing two key hypotheses:  
-    (1) Commodity liquidity risk significantly reduces carry trade returns (estimated impact: -0.226).  
-    (2) The negative impact of liquidity risk is amplified by capital controls.
-    
-  - Utilized a **Staggered-DID model** to investigate bypass mechanisms in response to diverse capital control policies. The analysis was based on **daily capital intervention data (4,000 events)** from the Global Trade Alert (GTA) dataset.
-  - 
-  - Built a **Large Language Model (LLM)** to extract regional information from **25,035 commodity contracts** in the Refinitiv dataset. Merged this with Bloomberg’s daily carry trade returns to assess the influence of liquidity risk on carry trade returns and develop a quantitative model for the **commodity-carry trade market equilibrium**.  
-  - **Presented at the 2024 Southern Economics Association (SEA) 94th Annual Meeting** on November 2024.**
+excerpt: >**Advisor:** Prof. Tomas Williams  
+
+This project investigates **commodity carry trade in developing countries**, testing two key hypotheses:  
+1. **Commodity liquidity risk reduces carry trade returns** (impact: -0.226)  
+2. **Capital controls amplify the negative impact of liquidity risk**  
+
+A **Staggered-DID model** is employed using **4,000 daily capital intervention events** from the **Global Trade Alert (GTA) dataset**. A **Large Language Model (LLM)** extracts regional information from **25,035 commodity contracts** (Refinitiv), which is merged with **Bloomberg’s carry trade returns** to analyze liquidity risk's effect on returns. The project’s findings were **presented at the 2024 SEA Annual Meeting**, offering new insights into the **commodity-carry trade market equilibrium**.
 date: 2024-11-21
 venue: "2024 Southern Economics Association (SEA) 94th Annual Meeting"
 slidesurl: ".../files/SEA_GeyueSun.pdf"
