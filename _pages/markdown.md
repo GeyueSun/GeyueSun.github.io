@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: #
 author_profile: true
 redirect_from: 
   - /md/
@@ -17,7 +17,7 @@ redirect_from:
 - I have a **3-year-old black-and-white cat named Tuna Sun**. Contrary to her name, she doesn't like tuna but absolutely loves chicken.
 - Tuna Sun is a smart cat who can **give paws, press buttons, and spin in a circle** on command!
   
-![Tuna Sun](path/to/your/image.jpg)
+![Tuna Sun](../images/IMG_3106.jpg)
 
 ## Others
 - I am also a **video vlogger and editor** of my **personal channel**, where I create and edit engaging content!
