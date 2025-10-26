@@ -11,7 +11,8 @@ locale                   : "en-US"
 title                    : "Geyue (Grace) Sun / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Geyue Sun"
-description              : &description "PhD Candidate at George Washington University, Department of Economics"
+description              : &description "PhD Candidate at George Washington University, Department of Economics \\ Macreoconomics| Interntaionl Finance 
+ AI in Economics"
 url                      : https://GeyueSun.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GeyueSun/GeyueSun.github.io"
@@ -26,7 +27,7 @@ author:
   pronouns         : "she/her"  
   bio              : "PhD Candidate at George Washington University,Department of Economics "
   location         : "Washington D.C."
-  # employer         : "George Washinton University"
+  # employer         : "George Washington University"
   # uri              : 
   email            : "geyuesun@gwu.edu" 
 
