@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi! I am Grace, a fifth-year Ph.D. candidate from [Department of Economics](https://economics.columbian.gwu.edu/) at [George Washington University](https://www.gwu.edu/), specializing in **International Macroeconomics, Monetary Policy, and Applied Macroeconomics**. My recent research topics include capital flows, capital controls, financial risks and the impact of AI on financial markets.
+Hi! I am Grace, a fifth-year Ph.D. candidate from [Department of Economics](https://economics.columbian.gwu.edu/) at [George Washington University](https://www.gwu.edu/), specializing in **International Macroeconomics, AI in Economics**. My recent research topics include capital flows, capital controls, financial risks and the impact of AI on financial markets.
 
 I am very fortunate to be advised by [Prof. Tomas Williams](https://tomas-williams.com/) at The George Washington University. Previously, I was mentored by [Prof. Guixia Guo](https://iie.uibe.edu.cn/english/faculty/60682.htm) during my Master's Degree at the [University of International Business and Economics (UIBE)](https://english.uibe.edu.cn/).
 
