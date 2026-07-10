@@ -9,14 +9,17 @@ main:
   - title: "CV"
     url: /files/CV_Grace.pdf
 
-  - title: "Current Projects"
-    url: /talks/  
+  - title: "Job Market Paper"
+    url: /job-market-paper/
+
+  - title: "Research Experiences"
+    url: /talks/
 
   - title: "Publications and Talks"
     url: /publications/
-  
+
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "Fun Facts"
     url: /markdown/
