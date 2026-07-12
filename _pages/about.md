@@ -14,8 +14,6 @@ My research builds large-scale, AI- and text-based datasets to study capital flo
 
 I am very fortunate to be advised by [Prof. Tomas Williams](https://tomas-williams.com/) at The George Washington University. Previously, I was mentored by [Prof. Guixia Guo](https://iie.uibe.edu.cn/english/faculty/60682.htm) during my Master's Degree at the [University of International Business and Economics (UIBE)](https://english.uibe.edu.cn/).
 
-In summer 2025, I was an **Economist Intern at the Andersen Institute of Finance and Economics** in Washington, D.C., where I built LLM-based research pipelines for stablecoin analysis and coauthored policy notes and papers, including an [NBER working paper](https://www.nber.org/papers/w34475).
-
 You can find my CV here: [Grace Sun's Curriculum Vitae](../files/CV_Grace.pdf).
 
 
