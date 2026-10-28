@@ -3,7 +3,7 @@ title: "An LLM-based Survey of Stablecoin Podcasts"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-19-llm-survey-stablecoin-podcasts
-excerpt: 'Applies large language models to transcribe and analyze thousands of stablecoin podcast episodes, constructing structured measures of sentiment, regulatory views, and key themes. Available at SSRN.'
+excerpt: '*with R. Ahmed and A. Rebucci.* Applies large language models to transcribe and analyze 1,600+ stablecoin podcast episodes with audio-LLM pipelines (WhisperX, GPT-4o), constructing structured measures of sentiment, regulatory views, and key themes. The resulting Stablecoin Sentiment Index has been covered by The Wall Street Journal and featured in the Milken Institute Review. Available at SSRN.'
 date: 2025-10-19
 venue: 'SSRN'
 slidesurl: #

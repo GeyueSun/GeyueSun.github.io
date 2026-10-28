@@ -5,15 +5,15 @@ category: "Research"
 permalink: /research/learning-to-regulate
 link: https://arxiv.org/abs/2505.23025
 excerpt: >
-  **Working Paper — under review at *The Journal of Finance and Data Science*** &nbsp;·&nbsp; *with X. Liu, T. Williams, et al.*
+  ***The Journal of Finance and Data Science*** &nbsp;·&nbsp; *with X. Liu, T. Williams, and R. Samaniego*
 
-  - Constructed a global **event-level dataset of 5,198 capital control measures** (1999–2023, 196 countries) using **LLM extraction and finetuning** based on IMF AREAER reports.
+  - Constructed a novel **event-level dataset of 5,198 capital control measures** (1999–2023, 196 countries) from IMF AREAER reports, using a two-stage **GPT-4.1** framework that extracts 27 policy attributes.
 
-  - Applied **event-study and time-series/ML methods**: global shocks (↑VIX, USD appreciation) raise the likelihood of inflow restrictions, while domestic FX pressure and current-account imbalances lead to outflow controls.
+  - Fine-tuned **Llama 3.1-8B (CCM-Llama)** for automated classification, achieving 90.09% accuracy in policy categories and 99.55% in status prediction.
 
-  - Provides an empirical framework to forecast capital-account interventions under different macro-financial environments. [Read on arXiv &raquo;](https://arxiv.org/abs/2505.23025)
+  - An event-study application to China, Australia, and the U.S. finds that inward capital controls significantly reduce fund inflows within one month, with stronger effects from restrictive than liberalizing measures. [Read on arXiv &raquo;](https://arxiv.org/abs/2505.23025)
 date: 2025-05-23
-type: "Working Paper"
-venue: "arXiv:2505.23025"
+type: "Journal Article"
+venue: "The Journal of Finance and Data Science"
 location: ""
 ---

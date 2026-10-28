@@ -3,11 +3,14 @@ title: "Stablecoins: A Revolutionary Payment Technology with Financial Risks"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-11-01-stablecoins-financial-risks
-excerpt: 'A study of stablecoins as an emerging payment technology and the financial-stability risks they introduce. Published as an NBER Working Paper (No. 34475).'
+excerpt: >
+  *with R. Ahmed, J. A. Clouse, F. Natalucci, and A. Rebucci* &nbsp;·&nbsp; **NBER Working Paper No. 34475**
+  - Discusses how the GENIUS Act's dual federal and state framework segments the USD stablecoin market, and the use cases and potential benefits of stablecoins for payment-system efficiency and costs, including their substitutability with money market mutual funds.
+  - Concludes with the economic implications of a large dollar stablecoin ecosystem, supported by a new survey of expert opinion built from **LLM analysis of all U.S. stablecoin podcast episodes** (January–July 2025).
 date: 2025-11-01
 venue: 'NBER Working Paper No. 34475'
 slidesurl: #
-paperurl: 'https://www.nber.org/papers/w34475'
+paperurl: 'https://www.nber.org/system/files/working_papers/w34475/w34475.pdf'
 citation: 'Ahmed, R., Clouse, J. A., Natalucci, F., Rebucci, A., and Sun, G. (2025). "Stablecoins: A Revolutionary Payment Technology with Financial Risks." <i>NBER Working Paper No. 34475</i>, National Bureau of Economic Research.'
 ---
 

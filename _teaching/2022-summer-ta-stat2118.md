@@ -1,9 +1,9 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "ECON 8305 Macroeconomics I (PhD Level)"
-permalink: /teaching/2014-spring-teaching-1
+type: "STAT 2118 Regression Analysis"
+permalink: /teaching/2022-summer-ta-stat2118
 venue: "George Washington University"
-date: 2022-09-01
+date: 2022-06-02
 location: "Washington D.C., US"
 ---

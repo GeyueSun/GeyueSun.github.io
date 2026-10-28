@@ -1,6 +1,5 @@
 ---
-title: "Impact of the Opening of Shanghai Free Trade Area on the Port Economy in Hong
-Kong"
+title: "An Impact Analysis of the Shanghai Free Trade Zone on Hong Kong's Port Economy"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
@@ -9,11 +8,10 @@ Difference-in-Differences (DID) approach and border analysis. The analysis revea
 the Shanghai FTA on Hong Kong’s import-export market, attributed to Hong Kong’s dependence on sales
 and import volume rather than production innovation and R&D capabilities.'
 date: 2017-05-01
-venue: 'China Circulation Economy'
+venue: 'National Circulation Economy'
 slidesurl: #
 paperurl: #
-citation: 'G. Sun. Impact of the Opening of Shanghai Free Trade Area on the Port Economy in Hong
-Kong China, Circulation Economy, 2017'
+citation: 'Sun, G. (2017). "An Impact Analysis of the Shanghai Free Trade Zone on Hong Kong''s Port Economy." <i>National Circulation Economy</i>, 2017(15): 14–15.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
