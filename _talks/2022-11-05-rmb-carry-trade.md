@@ -1,5 +1,5 @@
 ---
-title: "RMB Carry Trade and the Theoretical Framework of the Impossible Trinity"
+title: "RMB Carry Trade and the Theoretical Framework of the Impossible Trinity: An Empirical Analysis Based on a TVP-SV-VAR Model"
 collection: "Research Experiences"
 category: "Research"
 permalink: /research/rmb-carry-trade

@@ -7,11 +7,10 @@ author_profile: true
 
 ## Not Just Talk: Crypto Activity, Equity Repricing, and Macro-Financial Transmission
 
-*Geyue (Grace) Sun &nbsp;·&nbsp; Job Market Paper (October 2026) &nbsp;·&nbsp; Advisor: [Prof. Tomas Williams](https://tomas-williams.com/)*
+<p class="paper-byline">Geyue (Grace) Sun &nbsp;·&nbsp; October 2026 &nbsp;·&nbsp; Advisor: <a href="https://tomas-williams.com/">Prof. Tomas Williams</a></p>
 
-[**Paper (PDF)**](/files/JMP_Geyue.pdf) &nbsp;·&nbsp; [**Slides (PDF)**](/files/JMP_Slides.pdf) &nbsp;·&nbsp; [Related NBER working paper](https://www.nber.org/papers/w34475)
-
----
+<a class="btn btn--info" href="/files/JMP_Geyue.pdf"><i class="fas fa-file-pdf"></i> Paper (PDF)</a>
+<a class="btn btn--inverse" href="/files/JMP_Slides.pdf"><i class="fas fa-chalkboard"></i> Slides (PDF)</a>
 
 ### Abstract
 

@@ -40,8 +40,10 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin: 0.6em 0 0.3em;
   font-family: $sans-serif-narrow;
+  font-size: 1.12em;
+  line-height: 1.4;
 
   a + a {
     opacity: 0.5;
@@ -59,7 +61,21 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: 0.92em;
+  line-height: 1.65;
+
+  ul {
+    margin: 0.4em 0 0.6em;
+    padding-left: 1.2em;
+  }
+
+  li {
+    margin-bottom: 0.45em;
+  }
+
+  p {
+    margin: 0 0 0.6em;
+  }
 
   & + p {
     text-indent: 0;
@@ -90,16 +106,13 @@
    ========================================================================== */
 
 .list__item {
-  @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
-  }
+  padding-right: 0;
+  padding-bottom: 1.2em;
+  margin-bottom: 1.2em;
+  border-bottom: 1px solid $border-color;
 
-  @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
-  }
-
-  @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
+  &:last-child {
+    border-bottom: none;
   }
 
   .page__meta {
@@ -242,4 +255,40 @@
       }
     }
   }
+}
+
+
+/*
+   Personal tweaks
+   ========================================================================== */
+
+.list__item .page__meta {
+  margin: 0 0 0.5em;
+  font-size: 0.82em;
+  color: $gray;
+}
+
+.archive a.btn {
+  margin: 0 0.4em 0.5em 0;
+  text-decoration: none;
+}
+
+.archive > h2,
+.archive > h3 {
+  margin-top: 1.6em;
+}
+
+.archive > h3 {
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid $border-color;
+}
+
+.archive .page__title + h2 {
+  margin-top: 0.8em;
+}
+
+.paper-byline {
+  margin: -0.2em 0 1em;
+  color: $gray;
+  font-size: 0.92em;
 }

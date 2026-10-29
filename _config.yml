@@ -24,7 +24,7 @@ author:
   avatar           : "acatar.png"
   name             : "Geyue(Grace) Sun"
   pronouns         : "she/her"  
-  bio              : "PhD Candidate at George Washington University,Department of Economics "
+  bio              : "Ph.D. Candidate in Economics, George Washington University"
   location         : "Washington D.C."
   # employer         : "George Washington University"
   # uri              : 
@@ -44,7 +44,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "https://github.com/GeyueSun"
+  github           : "GeyueSun"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
