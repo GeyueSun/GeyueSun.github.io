@@ -1,5 +1,5 @@
 ---
-title: "What Drives Stablecoin Flows in Asia and the Pacific? Crypto-Market Shocks and Institutional Quality"
+title: "What Drives Stablecoin Flows in Asia and the Pacific? Crypto-Market Shocks, Capital Controls, and Institutional Quality"
 collection: "Research Experiences"
 category: "Research"
 permalink: /research/stablecoin-flows-asia-pacific

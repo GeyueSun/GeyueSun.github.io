@@ -13,7 +13,7 @@ redirect_from:
 
 Fields of Interest
 ======
-* **Primary:** International Macro-Finance, Digital Finance
+* **Primary:** International Macroeconomics, International Finance, Digital Finance
 * **Secondary:** AI/ML in Economic Measurement, Asset Pricing
 
 Education
@@ -34,23 +34,26 @@ References
 * **Roberto Samaniego**, Professor of Economics, George Washington University — [roberto@gwu.edu](mailto:roberto@gwu.edu)
 * **Tara Sinclair**, Chair of Department of Economics, George Washington University — [tsinc@gwu.edu](mailto:tsinc@gwu.edu)
 
-Work Experience
+Job Market Paper
+======
+* **Not Just Talk: Crypto Activity, Equity Repricing, and Macro-Financial Transmission** — [Paper](/files/JMP_Geyue.pdf) · [Slides](/files/JMP_Slides.pdf) · [Abstract](/job-market-paper/)
+
+Professional Experience
 ======
 * **Fund Internship Program, Asia and Pacific Department**, International Monetary Fund — Washington, D.C. *(Jun 2026 – Aug 2026)*
-  * Framed a regional policy question on what drives stablecoin flows and tested it on **6.25M transaction-level records**.
-  * Built data processing pipelines turning raw USDT/USDC transfers into a country-month panel with IMF and BIS data.
-  * Estimated panel, DiD, and gravity models showing that stablecoins are used as crypto safe assets, and highlighting the importance of local governance and legislation.
-  * Delivered an IMF APD seminar and a forthcoming **IMF Working Paper**; results are being cited in Vietnam Policy Notes.
+  * Investigated the drivers of cross-border stablecoin flows using **6.25M USDT/USDC transaction records** across Asia and the Pacific.
+  * Applied panel, difference-in-differences, and gravity models to examine macro-financial relationships, finding evidence of stablecoins' role as safe assets within crypto markets and the importance of local governance and regulation.
+  * Presented findings at an IMF APD seminar and contributed to a forthcoming **IMF Working Paper**, with results cited in Vietnam Policy Notes.
 * **Economist Intern**, Andersen Institute for Finance and Economics — Washington, D.C. *(Jun 2025 – Aug 2025)*
-  * Measured whether market sentiment moves stablecoin markets by constructing a novel index from **1,600+ raw podcast episodes**.
-  * Built **audio-LLM pipelines** (WhisperX, GPT-4o) extracting sentiment scores, stance vectors, and topic embeddings.
-  * Delivered a **Stablecoin Sentiment Index** product, published in an NBER Working Paper and an SSRN paper; also covered by The Wall Street Journal and featured in the Milken Institute Review.
+  * Developed a **Stablecoin Sentiment Index** from **1,600+ podcast episodes**, transforming unstructured commentary into a systematic measure of sentiment toward stablecoins.
+  * Built an **audio-LLM pipeline** (WhisperX, GPT-4o) to extract sentiment, stance, and topics, enabling research on how market narratives relate to stablecoin adoption and activity.
+  * Contributed index data and analysis to an NBER Working Paper and an SSRN paper, with the research covered by The Wall Street Journal and featured in the Milken Institute Review.
 
 Skills
 ======
 * **Empirical Methods:** Panel-data methods, causal inference and event studies, difference-in-differences, local projections, gravity models, time-series analysis (VAR and TVP-SV-VAR), structural macroeconomic modeling (DSGE)
 * **Programming:** Stata, Python (pandas, statsmodels, Plotly, GeoPandas), MATLAB, R, SQL, SAS, C, EViews, OxMetrics, Excel VBA
-* **AI/ML:** Large language models (prompting, fine-tuning, structured information extraction), Hugging Face Transformers, OpenAI and Anthropic APIs, Whisper
+* **AI/ML:** Large language models (prompting, fine-tuning, and structured information extraction), Hugging Face Transformers, OpenAI and Anthropic APIs, Whisper; Deep Learning Specialization (DeepLearning.AI, 2024)
 * **Economic & Policy Data:** IMF AREAER, IFS, WEO, and BOP; World Bank WGI and KNOMAD; BIS
 * **Languages:** Mandarin Chinese (native), English (fluent)
 
@@ -62,7 +65,7 @@ Publications
   
 Selected Presentations
 ======
-* IMF Asia and Pacific Department Seminar — 2026
+* IMF Asia and Pacific Department seminar — 2026
 * IMF MCM AI Community Seminar — 2026
 * North American Summer Meeting — 2026
 * Chinese Economists Society (CES) Annual Meeting — 2025
@@ -74,21 +77,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Certifications and Memberships
-======
-* Student Member, Center for Economic Research (AI Economics Program), GWU — 2025
-* Certificate of Achievement, AI Agents Fundamentals — 2025
-* JPMorgan Chase & Co. Quantitative Research — 2024
-* Coursera / DeepLearning.AI Deep Learning Specialization — 2024
-* Certification of Supervised Machine Learning Course — 2023
-
-Honors, Fellowships, and Awards
+Honors, Fellowships, and Affiliations
 ======
 * Dean's Dissertation Completion Fellowship, GWU — 2026
 * Hsieh Graduate Teaching Prize, GWU — 2026
 * Graduate Merit Fellowship, GWU — 2021–2026
 * John Whitefield Kendrick Graduate Fellowship, GWU — 2022–2024
-* International Exchange Student Scholarship, UIBE — 2018–2020
-* Graduate Merit Fellowship, JUFE — 2018
+* Student Member, Center for Economic Research (AI Economics Program), GWU — 2025
+* International Exchange Student Scholarship, UIBE; Graduate Merit Fellowship, JUFE — 2018–2020
 * Third Prize, Blue Bridge Cup National Software and Information Technology Competition — 2017
-* Third Prize, National University Internet Finance Application Innovation Competition — 2016

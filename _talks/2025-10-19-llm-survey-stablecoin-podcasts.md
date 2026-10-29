@@ -11,7 +11,7 @@ excerpt: >
 
   - Demonstrated how audio-native LLM pipelines can turn unstructured media into research-grade datasets for economics and finance.
 
-  - Available at SSRN: [http://dx.doi.org/10.2139/ssrn.5628451](http://dx.doi.org/10.2139/ssrn.5628451)
+  - Available at SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5628451](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5628451)
 date: 2025-10-19
 type: "Working Paper"
 venue: "SSRN"

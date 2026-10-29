@@ -11,7 +11,7 @@ excerpt: >
 
   - Fine-tuned **Llama 3.1-8B (CCM-Llama)** for automated classification, achieving 90.09% accuracy in policy categories and 99.55% in status prediction.
 
-  - An event-study application to China, Australia, and the U.S. finds that inward capital controls significantly reduce fund inflows within one month, with stronger effects from restrictive than liberalizing measures. [Read on arXiv &raquo;](https://arxiv.org/abs/2505.23025)
+  - An event-study application to China, Australia, and the U.S. finds that inward capital controls significantly reduce fund inflows within one month, with stronger effects from restrictive than liberalizing measures. [arXiv &raquo;](https://arxiv.org/abs/2505.23025) &nbsp;·&nbsp; [SSRN &raquo;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5273341)
 date: 2025-05-23
 type: "Journal Article"
 venue: "The Journal of Finance and Data Science"

@@ -9,9 +9,11 @@ excerpt: >
 
   - Used **large language models** to classify SEC Forms 10-K, 8-K, and 20-F covering **6,551 U.S. domestic and foreign private issuers**, distinguishing crypto *mentions* from firms' actual crypto and stablecoin activities.
 
-  - In **7.05 million firm-day observations** across 3,879 U.S. domestic issuers, Bitcoin–equity return sensitivity nearly triples from general crypto disclosures (0.045) to core activities (0.128), while mention-only firms are not sensitive at all; sensitivity is strongest for proprietary holders, smaller firms, and finance-industry firms (0.171).
+  - In **7.05 million firm-day observations** across 3,879 U.S. domestic issuers, Bitcoin-related equity repricing is concentrated in firms with substantive crypto activities: return sensitivity nearly triples from general disclosures to core activities, while mention-only firms show none; repricing is strongest for proprietary holders, smaller firms, and financial firms.
 
-  - Bitcoin returns also affect corporate operating income and asset growth; as more industry peers engage in crypto, Bitcoin reprices non-exposed business-services firms more strongly and non-exposed banks less — implying that financial-stability surveillance must look beyond aggregate market correlations.
+  - Bitcoin returns also affect operating income and asset growth; through industry links, Bitcoin movements reprice firms without direct exposure, more strongly in business services and less in banking — implying that financial-stability surveillance must look beyond aggregate market correlations.
+
+  - [Paper (PDF)](/files/JMP_Geyue.pdf) &nbsp;·&nbsp; [Slides (PDF)](/files/JMP_Slides.pdf)
 date: 2026-10-01
 type: "Job Market Paper"
 venue: "2026"
