@@ -19,5 +19,11 @@ redirect_from:
   
 ![Tuna Sun](../images/IMG_3106.jpg)
 
+## "Life with My Dog"
+
+- Besides Tuna Sun, I also have a **dog**! Here he is enjoying a day out at the park.
+
+![My dog](../images/dog.jpeg)
+
 ## Others
 - I am also a **video vlogger and editor** of my **personal channel**, where I create and edit engaging content!
